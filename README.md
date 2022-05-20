@@ -1,5 +1,4 @@
 # introNET6.0-Clase8
-Cálculo de promedios usando una matriz
 
 Crear un programa que cumpla con los siguientes pasos
 
